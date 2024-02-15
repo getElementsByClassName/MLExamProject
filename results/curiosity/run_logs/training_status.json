@@ -1,0 +1,29 @@
+{
+    "DuckTest": {
+        "checkpoints": [
+            {
+                "steps": 123426,
+                "file_path": "results\\curiosity\\DuckTest\\DuckTest-123426.onnx",
+                "reward": null,
+                "creation_time": 1707718753.9022834,
+                "auxillary_file_paths": [
+                    "results\\curiosity\\DuckTest\\DuckTest-123426.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 123426,
+            "file_path": "results\\curiosity\\DuckTest.onnx",
+            "reward": null,
+            "creation_time": 1707718753.9022834,
+            "auxillary_file_paths": [
+                "results\\curiosity\\DuckTest\\DuckTest-123426.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "2.2.0+cpu"
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "DuckTest": {
+        "checkpoints": [
+            {
+                "steps": 387655,
+                "file_path": "results\\learningrate\\DuckTest\\DuckTest-387655.onnx",
+                "reward": -0.996153846096534,
+                "creation_time": 1707716071.2677143,
+                "auxillary_file_paths": [
+                    "results\\learningrate\\DuckTest\\DuckTest-387655.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 387655,
+            "file_path": "results\\learningrate\\DuckTest.onnx",
+            "reward": -0.996153846096534,
+            "creation_time": 1707716071.2677143,
+            "auxillary_file_paths": [
+                "results\\learningrate\\DuckTest\\DuckTest-387655.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "2.2.0+cpu"
+    }
+}
